@@ -25,6 +25,4 @@ Starter repository for fine-tuning an LLM for healthcare Q&A using PEFT/LoRA and
    uvicorn api.app:app --host 0.0.0.0 --port 8000
    ```
 
-## Safety
-- Validate outputs; do not deploy without human review.
-- Consider adding RAG and safety filters for production.
+
